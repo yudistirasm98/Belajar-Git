@@ -19,7 +19,9 @@ Observe = Melakukan pengecekan
 - git log
 
 Sync
-- git push
+- git remote add origin <github>
+- git remote -v
+- git push origin master
 - git pull
 - git fetch
 
